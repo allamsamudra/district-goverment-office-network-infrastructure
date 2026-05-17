@@ -14,8 +14,6 @@
 - [Routing Configuration](#routing-configuration)
 - [DHCP Configuration](#dhcp-configuration)
 - [Network Zones](#network-zones)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
 
 ---
 
